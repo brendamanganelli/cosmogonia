@@ -6,8 +6,8 @@
 
 ## Notebooks
 
-|Index |Notebooks
-|----:|:---------------------------------------------------------------------------------|-----------:|
+Notebooks
+
 |1 |  [Portfolio Optimization One](./notebooks/portfolio_management_one.py) 
 |2 |  [Value at Risk One](./notebooks/value_at_risk_one.py) 
 |3 |  [Classical Linear Regression](./notebooks/classical_linear_regression.py) 
@@ -32,7 +32,3 @@
 |23 |  [Free Historical Market Data Download](./backtest/hist_downloader.py) 
 |24 |  [Market Profile and Volume Profile](./market/market_profile.ipynb)
 |56 |  [From Reinforcement Gamer to Reinforcement Trader](./ml/reinforcement_trader.ipynb) |
-
-```python
-
-```
