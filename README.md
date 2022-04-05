@@ -1,4 +1,4 @@
-# QuantResearch
+
 
 * [Backtest](./backtest)
 * [Machine Learning and Deep Reinforcement Learning](./ml) 
